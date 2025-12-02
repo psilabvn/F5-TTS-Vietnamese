@@ -69,4 +69,4 @@ def main():
 if __name__ == "__main__":
     main()
 
-# python script/download_tiktok_audio.py "https://www.tiktok.com/@tienbry.com/video/7500955962338053383?q=ti%E1%BA%BFn%20b%E1%BB%8Bp%20n%C3%B3i%20%C4%91%E1%BA%A1o%20l%C3%BD&t=1763970677436" "temp"    
+# python script_utils/download_tiktok_audio.py "https://www.tiktok.com/@tienbry.com/video/7500955962338053383?q=ti%E1%BA%BFn%20b%E1%BB%8Bp%20n%C3%B3i%20%C4%91%E1%BA%A1o%20l%C3%BD&t=1763970677436" "temp"    

@@ -1,3 +1,7 @@
+# Add to your infer.sh or set in environment
+export HF_HOME="/home/psilab/.cache/huggingface"
+export HF_HUB_CACHE="/home/psilab/.cache/huggingface/hub"
+
 f5-tts_infer-cli \
 --model "F5TTS_Base" \
 --ref_audio ref.wav \
