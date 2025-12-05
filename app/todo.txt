@@ -1,0 +1,10 @@
+các tính năng
+1. lựa chọn giọng trong thư mục original_voice_ref
+2. nhập đoạn text cần voice clone
+    Loại bỏ ký tự đặc biệt
+    Thay số bằng chữ (ví dụ: 1 → một)
+    Thay dấu . bằng ,
+    Chuyển tất cả chữ hoa thành chữ thường
+3. tạo voice clone
+4. download file
+
